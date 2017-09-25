@@ -1,0 +1,11 @@
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\bin\Debug\netcoreapp2.0\ShopHierarchy.deps.json
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\bin\Debug\netcoreapp2.0\ShopHierarchy.runtimeconfig.json
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\bin\Debug\netcoreapp2.0\ShopHierarchy.runtimeconfig.dev.json
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\bin\Debug\netcoreapp2.0\ShopHierarchy.dll
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\obj\Debug\netcoreapp2.0\ShopHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\obj\Debug\netcoreapp2.0\ShopHierarchy.AssemblyInfoInputs.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\obj\Debug\netcoreapp2.0\ShopHierarchy.AssemblyInfo.cs
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\bin\Debug\netcoreapp2.0\ShopHierarchy.pdb
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\obj\Debug\netcoreapp2.0\ShopHierarchy.dll
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\obj\Debug\netcoreapp2.0\ShopHierarchy.pdb
+C:\Users\stoya\Desktop\01.IntroductionCore\Shop Hierarchy\obj\Debug\netcoreapp2.0\ShopHierarchy.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\bin\Debug\netcoreapp1.1\01.IntroductionCore.deps.json
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\bin\Debug\netcoreapp1.1\01.IntroductionCore.runtimeconfig.json
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\bin\Debug\netcoreapp1.1\01.IntroductionCore.runtimeconfig.dev.json
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\bin\Debug\netcoreapp1.1\01.IntroductionCore.dll
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\bin\Debug\netcoreapp1.1\01.IntroductionCore.pdb
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\obj\Debug\netcoreapp1.1\01.IntroductionCore.csprojResolveAssemblyReference.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\obj\Debug\netcoreapp1.1\01.IntroductionCore.AssemblyInfo.cs
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\obj\Debug\netcoreapp1.1\01.IntroductionCore.dll
+C:\Users\stoya\Desktop\01.IntroductionCore\01.IntroductionCore\obj\Debug\netcoreapp1.1\01.IntroductionCore.pdb

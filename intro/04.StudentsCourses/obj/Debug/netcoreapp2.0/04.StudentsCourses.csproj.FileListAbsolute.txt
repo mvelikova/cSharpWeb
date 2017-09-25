@@ -1,0 +1,11 @@
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\bin\Debug\netcoreapp2.0\04.StudentsCourses.deps.json
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\bin\Debug\netcoreapp2.0\04.StudentsCourses.runtimeconfig.json
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\bin\Debug\netcoreapp2.0\04.StudentsCourses.runtimeconfig.dev.json
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\bin\Debug\netcoreapp2.0\04.StudentsCourses.dll
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\obj\Debug\netcoreapp2.0\04.StudentsCourses.csproj.CoreCompileInputs.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\obj\Debug\netcoreapp2.0\04.StudentsCourses.AssemblyInfoInputs.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\obj\Debug\netcoreapp2.0\04.StudentsCourses.AssemblyInfo.cs
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\bin\Debug\netcoreapp2.0\04.StudentsCourses.pdb
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\obj\Debug\netcoreapp2.0\04.StudentsCourses.csprojResolveAssemblyReference.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\obj\Debug\netcoreapp2.0\04.StudentsCourses.dll
+C:\Users\stoya\Desktop\01.IntroductionCore\04.StudentsCourses\obj\Debug\netcoreapp2.0\04.StudentsCourses.pdb

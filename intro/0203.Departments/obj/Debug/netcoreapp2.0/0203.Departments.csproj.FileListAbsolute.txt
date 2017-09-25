@@ -1,0 +1,11 @@
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\bin\Debug\netcoreapp2.0\0203.Departments.deps.json
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\bin\Debug\netcoreapp2.0\0203.Departments.runtimeconfig.json
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\bin\Debug\netcoreapp2.0\0203.Departments.runtimeconfig.dev.json
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\bin\Debug\netcoreapp2.0\0203.Departments.dll
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\obj\Debug\netcoreapp2.0\0203.Departments.csprojResolveAssemblyReference.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\obj\Debug\netcoreapp2.0\0203.Departments.csproj.CoreCompileInputs.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\obj\Debug\netcoreapp2.0\0203.Departments.AssemblyInfoInputs.cache
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\obj\Debug\netcoreapp2.0\0203.Departments.AssemblyInfo.cs
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\bin\Debug\netcoreapp2.0\0203.Departments.pdb
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\obj\Debug\netcoreapp2.0\0203.Departments.dll
+C:\Users\stoya\Desktop\01.IntroductionCore\0203.Departments\obj\Debug\netcoreapp2.0\0203.Departments.pdb
